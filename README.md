@@ -30,3 +30,4 @@ Ensure the data is clean and ready for analysis.
 Analyze user activity by day of the week and city.
 Compare genres listened to on Monday mornings and Friday evenings between the two cities.
 Identify genre preferences for Springfield and Shelbyville and compare them.
+
